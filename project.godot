@@ -17,3 +17,7 @@ config/icon="res://Logo.png"
 [dotnet]
 
 project/assembly_name="ScreenSwitcher"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/ScreenSwitcher/plugin.cfg")
